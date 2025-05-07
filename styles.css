@@ -1,0 +1,26 @@
+/* filepath: c:\Users\USER\OneDrive\projects\styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#main-heading {
+    color: darkblue;
+}
+
+#description {
+    font-size: 18px;
+    color: gray;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: deepskyblue;
+}
